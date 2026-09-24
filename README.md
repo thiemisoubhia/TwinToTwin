@@ -9,7 +9,7 @@ Welcome to **Twin to Twin**, a Tableau data visualization project exploring the 
 
 As a twin myself, this project is especially meaningful to me. Through data analysis and visualization, I set out to uncover patterns, trends, and insights that help tell the unique story of twins around the world.
 
-## 📊 Project Overview
+## Project Overview
 
 This project transforms raw twin-related data into engaging visualizations designed to answer questions such as:
 
