@@ -1,4 +1,4 @@
-<img width="664" height="644" alt="logo" src="https://github.com/user-attachments/assets/be7b98a0-d5a5-4aa1-971f-c2339b39db52" />
+<img width="300" height="300" alt="logo" src="https://github.com/user-attachments/assets/be7b98a0-d5a5-4aa1-971f-c2339b39db52" />
 # Twin To Twin
 
 
