@@ -4,7 +4,7 @@
 
 
 > Double the fun, double the data.
-
+ 
 Welcome to **Twin to Twin**, a Tableau data visualization project exploring the fascinating world of twins through interactive dashboards and statistical storytelling.
 
 As a twin myself, this project is especially meaningful to me. Through data analysis and visualization, I set out to uncover patterns, trends, and insights that help tell the unique story of twins around the world.
@@ -56,3 +56,7 @@ Every twin has their own story, but together those stories create fascinating pa
 ---
 
 Made with 💕, curiosity, and a little twin magic.
+**This project is dedicated to my twin sister, Naomi, whose shared journey and bond inspired the idea behind this exploration. ❤️**
+
+<img width="479" height="640" alt="image" src="https://github.com/user-attachments/assets/6b96ed5e-9bbb-4c1e-afc4-ce773591f647" />
+
